@@ -9,6 +9,7 @@ public class MasterChange {
 	int e;
 	int f;
 	int g;
+	int h;
 
 	public int getD() {
 		return d;
@@ -26,5 +27,9 @@ public class MasterChange {
 	
 	public int getF() {
 		return f;
+	}
+	
+	public int getH() {
+		return h;
 	}
 }
