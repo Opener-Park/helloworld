@@ -8,6 +8,7 @@ public class MasterChange {
 	int d;
 	int e;
 	int f;
+	int g;
 
 	public int getD() {
 		return d;
