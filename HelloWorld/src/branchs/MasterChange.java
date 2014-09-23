@@ -10,4 +10,9 @@ public class MasterChange {
 	public int getD() {
 		return d;
 	}
+	
+	int e;
+	public int getE() {
+		return e;
+	}
 }
