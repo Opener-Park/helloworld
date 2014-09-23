@@ -13,6 +13,10 @@ public class MasterChange {
 	public int getD() {
 		return d;
 	}
+	
+	public int getC() {
+		return c;
+	}
 
 
 
